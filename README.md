@@ -1,5 +1,5 @@
 ![WorkGif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDA3b2pza25obXBzeDhpdGYxMnU4YWRsZTc3MHlxdG5ldWdtdno0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif)
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDA3b2pza25obXBzeDhpdGYxMnU4YWRsZTc3MHlxdG5ldWdtdno0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDA3b2pza25obXBzeDhpdGYxMnU4YWRsZTc3MHlxdG5ldWdtdno0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" width="500"/>
 
 # 💫 About Me:
 I'm currently working on "The Georgetown Post"<br>I'm currently learning Sveltekit and Flutter.<br>Ask me about React and Next JS<br>Fun fact, I'm something of a musician myself... :)
